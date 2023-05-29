@@ -1,0 +1,30 @@
+form {
+  width: 610px;
+}
+legend {
+  display: block;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: none;
+}
+label {
+  color: blue;
+}
+.red {
+  color: red;
+}
+#lB {
+  color: green;
+}
+#ok {
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+th {
+  height: 50px;
+}
+td {
+  text-align: center;
+}
